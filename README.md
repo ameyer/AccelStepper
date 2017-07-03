@@ -1,7 +1,7 @@
 # AccelStepper
 Arduino code for the Easy Driver step motor controller
 
-For complete hookup and tutorial see: http://adam-meyer.com/arduino/big-easy-driver-arduino
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/big_easy
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
